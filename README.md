@@ -57,6 +57,7 @@ Tools for managing vehicles, drivers, and operational efficiency.
 - [Samsara](https://www.samsara.com/) — Fleet management and telematics platform.
 - [Geotab](https://www.geotab.com/) — Fleet tracking and telematics solutions.
 - [Verizon Connect](https://verizonconnect.com/) — Fleet management platform with GPS tracking.
+- [KALES Trailer Road Regulations & Axle Compliance](https://github.com/andylua-beep/kales-trailer-road-regulations) — Open 28-market commercial trailer axle-load and road-dimension reference dataset with a free web compliance checker.
 
 ## Tracking & Visibility
 
